@@ -1,0 +1,38 @@
+.tb{
+    width: 940px;
+    margin-left: 200px;
+    margin-right: 300px;
+}
+
+.t1{
+    width: 15%;
+    float: left;
+}
+.t2{
+    width: 20%;
+    float: left;
+}
+.kb{
+    width: 940px;
+    margin-left: 200px;
+    margin-right: 300px;
+    border-top: 1px solid #ff4d00 ;
+    border-bottom: 1px solid #ff4d00 ;
+}
+
+.mai{
+    margin-top: 5px;
+    margin-left: 200px;
+    float: left;
+}
+.le
+{
+    margin-left: 200px;
+    float: left;
+}
+.ke
+{
+    margin-left: 10px;
+    float: left;
+
+}
